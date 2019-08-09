@@ -1,6 +1,6 @@
 import random
 
-money = 600
+money = 700
 
 def RepresentsInt(a):
 	try:
